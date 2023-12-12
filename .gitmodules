@@ -1,0 +1,6 @@
+[submodule "Backups"]
+	path = Backups
+	url = https://github.com/Sombody101/Backups.git
+[submodule "LocalScripts"]
+	path = LocalScripts
+	url = https://github.com/Sombody101/LocalScripts.git
