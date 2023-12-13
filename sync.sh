@@ -21,3 +21,5 @@ echo "$count submodules changed"
 for module in "${changed[@]}"; do
     printf "\t%s\n" "$module"
 done
+
+git add .
