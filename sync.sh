@@ -23,3 +23,5 @@ for module in "${changed[@]}"; do
 done
 
 git add .
+echo "git add ." # Just so I remember it's happening
+echo "Files added"
